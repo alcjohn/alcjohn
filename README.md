@@ -1,5 +1,3 @@
-### Hello, I'm [John](https://johnbioux.fr) 👋
+## Hello, I'm [John](https://johnbioux.fr) 👋
 
-<a href="https://www.linkedin.com/in/john-bioux/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-JohnBioux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-bioux/)](https://www.linkedin.com/in/jonathangin/)
