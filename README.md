@@ -1,4 +1,4 @@
-## Hello, I'm [John](https://johnbioux.fr) 👋
+## Hello, I'm [John](https://www.johnbioux.fr) 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-bioux/)](https://www.linkedin.com/in/john-bioux/)
 [![Linkedin Badge](https://img.shields.io/badge/-mail-red?style=flat-square&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/john-bioux/)](mailto:john.bioux@gmail.com)
