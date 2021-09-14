@@ -20,3 +20,5 @@
 [![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)](https://fr.reactjs.org/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-222222?style=flat&logo=graphql&logoColor=E10098)](https://graphql.org/)
 [![Nextjs](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcjohn&theme=vue)
