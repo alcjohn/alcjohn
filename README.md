@@ -21,4 +21,5 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-222222?style=flat&logo=graphql&logoColor=E10098)](https://graphql.org/)
 [![Nextjs](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 
+[![John's github stats](https://github-readme-stats.vercel.app/api?username=salimcodes)](https://github.com/alcjohn/github-readme-stats&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcjohn&theme=vue)
